@@ -1,6 +1,6 @@
 module litekube
 
-go 1.24.1
+go 1.23
 
 require (
 	github.com/docker/go-connections v0.5.0 // indirect

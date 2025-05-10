@@ -2,7 +2,7 @@ package manager
 
 import (
 	"fmt"
-	"litekube/src/internal/task"
+	"litekube/src/litekube/task"
 
 	"github.com/golang-collections/collections/queue"
 	"github.com/google/uuid"
